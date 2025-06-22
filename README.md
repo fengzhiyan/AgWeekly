@@ -2,7 +2,6 @@
 
 记录每周值得分享的农业内容，尽量周一前发布。
 
-![[Pasted image 20250621160154.png]]
 ## 2025年
 
 第0期：[自我介绍+为什么写周刊](https://github.com/fengzhiyan/AgWeekly/blob/main/Docs/第0期：自我介绍%2B为什么写周刊.md)
